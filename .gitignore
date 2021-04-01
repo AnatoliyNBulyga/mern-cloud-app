@@ -1,0 +1,14 @@
+# dependencies
+/client/node_modules
+/client/src/config.js
+/server/node_modules
+/server/config
+/server/files
+/server/static
+
+# production
+/client/build
+
+# css preprocessing
+/client/src/**/*.css
+/client/src/**/*.map
